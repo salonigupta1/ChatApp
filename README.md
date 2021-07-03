@@ -5,7 +5,7 @@ This project has been made using Nodejs, ExpressJs, MongoDB.
 - Nodejs should be installed in your system
 - MongoDB should be installed
 
-## How you run this project in your local system?
+## How to run this project in your local system?
 1. Clone the repository
 ```
 git clone "https://github.com/salonigupta1/ChatApp.git"
